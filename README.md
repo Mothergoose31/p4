@@ -39,10 +39,6 @@ npm run dev
 The above command will start the application on [http://localhost:3000/](http://localhost:3000).
 
 
-## Screens
-![Home Screen](/public/assets/images/screens/p1.png)
-![Skills Screen](/public/assets/images/screens/p2.png)
-![OpenSource Screen](/public/assets/images/screens/p3.png)
 
 ## License
 

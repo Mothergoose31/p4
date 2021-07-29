@@ -8,7 +8,7 @@ export const projectsList = [
     blurHash: "L4ADc400P*Zi4Tu1y;Qo00pH#YXl",
     link: "https://mothergoose31.github.io/OthelloV3/",
     desc: `This is a Lord of the rings theamed Othello game`,
-    technologies: ["Javascript", "HTML","css"]
+    technologies: ["Javascript", "HTML","CSS"]
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ export const projectsList = [
     logo: '/assets/images/projects/notch.png',
     blurHash: "L0Aer?tjH[tPyAayj[j[00ay%xkB",
     desc: `Front end web app  where you can filter countries by population, area of country and by GINI index`,
-    technologies: ["Next.js", "HTML", "javascript","CSS"]
+    technologies: ["Next.js", "HTML", "Javascript","CSS"]
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ export const projectsList = [
     blurHash: "L2M5%%0000EN00I:-oIp00kC?^sl",
     link: "https://epic-shaw-f54583.netlify.app/",
     desc: `A front End web App that displays the probability of a house in the Seattle area is from toppling over in the event of an earthquake`,
-    technologies: ["Javascript", "HTML", "css"]
+    technologies: ["Javascript", "HTML", "CSS"]
   },
   {
     id: 4,
@@ -38,7 +38,7 @@ export const projectsList = [
     blurHash: "L1O^uE0679I00AGT?.H{00y7p2tK",
     link: "https://github.com/Mothergoose31/Lilikoi-Market",
     desc: `This is an Ecommerce site`,
-    technologies: ["Next.js", "javascript"]
+    technologies: ["Next.js", "Javascript","HTML","CSS"]
   },
   {
     id: 5,
@@ -48,6 +48,6 @@ export const projectsList = [
     blurHash: "L09sWSxdH;s?%6axWAfk00V?%jax",
     link: "https://nutri-facts.herokuapp.com/",
     desc: `App the keep track your nutritional goals `,
-    technologies: ["javascript", "Node.js", "React"]
+    technologies: ["Javascript", "Node.js", "React"]
   }
 ];

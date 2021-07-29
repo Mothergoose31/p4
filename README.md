@@ -27,7 +27,7 @@ git clone https://github.com/Mothergoose31/p4
 ### 2. **Install necessary dependencies for the application**
 
 ```sh
-cd p4 && yarn install  || npm i
+cd p4 && npm i
 ```
 
 ### 3. **Start the application**

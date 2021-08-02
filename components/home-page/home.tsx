@@ -116,7 +116,7 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
             <Box as="strong" fontWeight="600">
               Joseph
             </Box>{" "}
-            and I&apos;m a{" "}
+            I&apos;m a{" "}
             <Box as="span" whiteSpace="nowrap">
               Full Stack Developer 
             </Box>{" "}

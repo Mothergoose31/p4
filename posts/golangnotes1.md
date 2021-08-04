@@ -1,5 +1,5 @@
 ---
-title: 'Notes: Defining the $GOPATH  $GOROOT, and looking at The directory '
+title: 'Notes On: Defining the $GOPATH  $GOROOT, and looking at The directory '
 date: '2021-08-03'
 ---
 Note to self -

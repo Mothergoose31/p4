@@ -18,10 +18,12 @@ Inside of a Go Workspace, or **GOPATH**, there are three directories: **bin**,
 **pkg**, and **src**. Each of these directories has special meaning to the Go
 tool chain.
 
-.
 ├── bin
+
 ├── pkg
+
 └── src
+
     └── github.com/foo/bar
         └── bar.go
 

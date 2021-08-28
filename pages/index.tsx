@@ -8,8 +8,8 @@ import Meta from '../components/layout/meta';
 export default function Index({ projects}) {
   return (
     <Fragment>
-      <Meta title='Joseph Alvarenga Beech - Full Stack Developer' />
-      
+      <Meta title='Joseph Alvarenga Beech - Software Engineer/Full-Stack development' />
+      <Meta description='' />
 
       <Home projects={projects} 
        />

@@ -14,8 +14,8 @@ const Meta = ({ title, keywords, description }) => {
 }
 
 Meta.defaultProps = {
-    title: 'Joseph Alvarenga Beech - Full Stack Developer',
-    keywords: 'web development, programming, web design',
+    title: 'Joseph Alvarenga Beech - Software Engineer',
+    keywords: 'web development, programming, web design , software development, software engineering',
     description: 'Software Engineer. ',
 }
 

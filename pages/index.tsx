@@ -9,10 +9,10 @@ export default function Index({ projects}) {
   return (
     <Fragment>
       <Meta title='Joseph Alvarenga Beech - Software Engineer/Full-Stack development' />
-      <Meta description='' />
+      
 
       <Home projects={projects} 
-       />
+      />
     </Fragment>
   )
 }

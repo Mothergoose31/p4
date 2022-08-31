@@ -17,8 +17,6 @@ import Projects from "./projects";
 import NextLink from 'next/link'
 
 
-
-
 const ANIMATION_DURATION = 0.5;
 const ORANGE = "#ff9400";
 
@@ -30,39 +28,9 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
 
   return (
     
-    // height: 90vh;
-    // max-height: 1000px;
-    // overflow: hidden;
-    // position: relative;
-    // background-position: center;
-    // background-size: cover;
-    // margin: 0;
-    // padding: 0;
-    // border: 0;
-    // display: flex;
-    // align-items: center;
     
     <Flex direction="column" align="center">
 
-      {/* <Box 
-      // needs to be worked , with these settings
-      // background video when viewed in mobile does not look right
-      height="90vh"
-      width="100vw"
-      overflow="hidden"
-      position="relative"
-      margin="0"
-      padding="0"
-      border="1px solid black"
-      display="flex"
-      
-      
-      >
-        
-        <video  className='bg-video' autoPlay={true}  loop={true} muted={true}style={{width: "100%"}} data-bm="42">
-        <source src={require('/public/bg-video.mp4')} type="video/mp4" ></source>
-      </video> 
-      </Box>  */}
 
       <Flex direction={["column", "column", "row"]}>
         <MotionBox
@@ -118,7 +86,7 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
             </Box>{" "}
             I&apos;m a{" "}
             <Box as="span" whiteSpace="nowrap">
-                Software Developer 
+                Software Engineer 
             </Box>{" "}
           
             from{" "}

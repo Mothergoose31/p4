@@ -96,13 +96,13 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
 
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" mt={5} textAlign="left">
-            With a fascination for exploring technological, socioeconomic, geopolitical, and environmental  trends.
+              I have an  interest in the Ethics of Sofware Engineering,
+              I also hold a fascination for exploring technological, socioeconomic, and environmental  trends.
               To explorer and predict possibilities about the future. And how stratification of
               those trends will affect human well being.
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" mt={5} textAlign="left">
-            This is my digital garden, where I write about the things I&apos;m
-            working on and share what I&apos;ve learned. 
+            On this site you will find  projects I have created in the past ,notes on bugs Ive encounted, and my socials. 
           </Box>
         </MotionFlex>
       </Flex>

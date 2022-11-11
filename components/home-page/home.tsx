@@ -96,8 +96,7 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
 
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" mt={5} textAlign="left">
-              I have an  interest in the Ethics of Sofware Engineering,
-              I also hold a fascination for exploring technological, socioeconomic, and environmental  trends.
+              I hold a fascination for exploring technological, socioeconomic, and environmental  trends.
               To explorer and predict possibilities about the future. And how stratification of
               those trends will affect human well being.
           </Box>
